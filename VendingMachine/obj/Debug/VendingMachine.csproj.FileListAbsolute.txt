@@ -1,0 +1,79 @@
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\musta\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\musta\Desktop\New folder\VendingMachine\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\user\OneDrive\Desktop\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\أخرى\projects training\windows apps\VendingMachine\VendingMachine\obj\Debug\VendingMachine.EditItems.resources
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.EditItems.resources
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine(Jameel DB - OOP)\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\bin\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.EditItems.resources
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\VendingMachine\VendingMachine(Jameel DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\bin\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.EditItems.resources
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.VendingMachine.resources
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.exe
+D:\VendingMachine\VendingMachine(Moh DB2)\VendingMachineDB2\VendingMachine\obj\Debug\VendingMachine.pdb
